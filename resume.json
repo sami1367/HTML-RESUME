@@ -1,0 +1,138 @@
+{
+  "basicInfo": {
+    "name": "Sajad Rahimi",
+    "jobTitle": "Backend Developer",
+    "email": "sjd.rhm@gmail.com",
+    "phone": "+98-913-388-8033",
+    "location": "Isfahan, Iran"
+  },
+  "summary": {
+    "sectionTitle": "Summary",
+    "data": "Experienced software developer with years of expertise in developing robust and scalable web applications. Skilled in full-stack development, I have successfully led teams and collaborated with diverse professionals to create innovative solutions for both startups and prestigious large enterprises. A detail-oriented problem-solver, I excel in coding, design, software testing, and debugging. Procient in a wide range of programming languages and frameworks, I have a solid foundation that allows me to adapt quickly to new technologies and deliver high-quality results. Committed to continuous learning and staying up-to-date with industry trends, I bring a passion for software development and a drive to create user-friendly applications that meet business objectives."
+  },
+  "experience": {
+    "sectionTitle": "Experience",
+    "data": [
+      {
+        "company": "Iranicard - Isfahan, Iran",
+        "position": "Senior Software Developer Team Lead - Full Stack Engineer",
+        "timePeriod": "Jan 2020 - Dec 2023 • ( 4 yrs )",
+        "details": [
+          "Pateh Project (https://pateh.com):",
+          "Led a dynamic team in designing and developing 25+ microservices for a cutting-edge product, facilitating daily sales of over a thousand flight tickets through third-party websites.",
+          "Managed and coordinated workflows, achieving rapid user growth and exceptional system performance handling 1000+ flight search requests per second.",
+          "Technologies: PHP, MySQL, Laravel, Node.js, Nuxt.js, MongoDB, TypeScript, Vue.js, JavaScript.",
+          "",
+          "Iranicard Project (https://iranicard.ir):",
+          "Played a vital role in building and enhancing integration within existing systems for international payment and exchange services.",
+          "Identified and resolved critical security bugs, optimized database connections, and contributed to enhancing customer experience.",
+          "Technologies: PHP MVC, MySQL, AngularJS, JavaScript, jQuery, AJAX.",
+          "Consistently displayed commitment to excellence and deep understanding of utilized technologies, contributing to project success."
+        ]
+      },
+      {
+        "company": "Amreton - Isfahan, Iran",
+        "position": "Full Stack Engineer - Backend Developer - PHP Developer - Node.js Developer",
+        "timePeriod": "Jan 2019 - Dec 2019 • ( 2 years 0 months )",
+        "details": [
+          "Amreton Project (https://amreton.ir/):",
+          "Pivotal role in developing and enhancing systems for the Internet Taxi application as a dedicated backend developer.",
+          "Responsibilities included creating essential services and APIs, optimizing travel allocation APIs, and migrating the system from REST to WebSocket technology.",
+          "Technologies: PHP, Laravel, MySQL, Node.js, NestJS, Express, Angular, JavaScript.",
+          "Demonstrated commitment to excellence, contributing to the development and optimization of the Internet Taxi application."
+        ]
+      },
+      {
+        "company": "Talamala - Isfahan, Iran",
+        "position": "Full-stack Developer",
+        "timePeriod": "Feb 2015 - Nov 2018 • ( 3 years and 10 months )",
+        "details": [
+          "Talamala Project (https://talamala.ir/):",
+          "Sole creator of the Talamala project, responsible for developing the Talamela website and two Android applications (user and admin).",
+          "Designed and implemented the PHP MySQL backend, ensuring seamless data processing and communication.",
+          "Highlights include intuitive website design, user-friendly mobile experience, and efficient admin control application.",
+          "Technologies: PHP, MySQL, JavaScript, jQuery, AJAX.",
+          "Successfully delivered a comprehensive and integrated solution for the Talamala project."
+        ]
+      },
+      {
+        "company": "Ponisha",
+        "position": "Freelance Software Developer",
+        "timePeriod": "Mar 2012 - Dec 2014 • ( 2 years 9 months )",
+        "details": [
+          "Undertook various projects creating customized websites and software solutions using WordPress and Microsoft Excel.",
+          "Highlights include developing multiple basic websites with seamless user experiences, responsive design, and dynamic functionalities.",
+          "Utilized PHP, MySQL, JavaScript, and jQuery to consistently deliver tailored solutions meeting clients' specific requirements."
+        ]           
+      },
+      {
+        "company": "Kahroba",
+        "position": "Electrical technician",
+        "timePeriod": "Jan 2009 - Dec 2011 • ( 3 years )",
+        "details": [
+          "Gained extensive expertise in electricity and electronics, specializing in designing and repairing electrical and electronic systems for elevators, CCTV cameras, and alarms.",
+          "Highlights include designing systems to meet specific requirements, ensuring optimal functionality, and performing repairs for safe and efficient operation.",
+          "Consistently delivered high-quality solutions and services leveraging my expertise in electricity and electronics."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Education",
+    "data": [
+      {
+        "institution": "Sepahan university of Esfahan IRAN",
+        "field": "Bachelor in Electronic Engineering",
+        "timePeriod": "2021 - 2023"
+      },
+      {
+          "institution": "Sadjad university of Mashhad Iran",
+          "field": "Associate degree in Electronic",
+          "timePeriod": "2007 - 2010"
+      }
+    ]
+  },
+  "skills": {
+    "sectionTitle": "Skills",
+    "data": [
+      "Programming, Software development, Web development, Agile Methodologies",
+      "Node.js, NestJS, JavaScript, TypeScript, Express",
+      "Laravel, Symfony, Lumen, PHP MVC",
+      "MySQL, MongoDB, PostgreSQL",
+      "RESTful API, Git workflows",
+      "Angular, Angular.js, Vue"
+    ]
+  },
+  "certifications": {
+    "sectionTitle": "Certifications",
+    "data": [
+      {
+        "course": "Developing Back-End Apps with Node.js and Express",
+        "institution": "COURSERA_IBM",
+        "timePeriod": "2023"
+      },
+      {
+        "course": "Web Page Development with PHP and MySQL",
+        "institution": "Technical Vocational - Isfahan, Iran",
+        "timePeriod": "2020"
+      }
+    ]
+  },
+  "languages": {
+    "sectionTitle": "Languages",
+    "data": [
+      {
+        "language": "English",
+        "proficiency": "upper-intermediate"
+      },
+      {
+        "language": "Persian",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Kurdish",
+        "proficiency": "upper-intermediate"
+      }
+    ]
+  }
+}
