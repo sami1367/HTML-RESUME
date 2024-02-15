@@ -94,13 +94,23 @@
   },
   "skills": {
     "sectionTitle": "Skills",
-    "data": [
-      "Programming, Software development, Web development, Agile Methodologies",
-      "Node.js, NestJS, JavaScript, TypeScript, Express",
-      "Laravel, Symfony, Lumen, PHP MVC",
-      "MySQL, MongoDB, PostgreSQL",
-      "RESTful API, Git workflows",
-      "Angular, Angular.js, Vue"
+    "primary": [
+      "PHP (PHP Frameworks like Laravel, Symfony or pure Vanilla php)",
+      "Node.js (Express.js, NestJS)",
+      "Amazon Web Services (AWS)",
+      "Database (MySQL, MongoDB)",
+      "Version Control (Gitlab, GitHub)",
+      "Object-Oriented Programming (OOP)",
+      "Agile Methodologies (Scrum)",
+      "JavaScript, TypeScript",
+      "Front-end (Angular, AngularJS, Vue.js, Nuxt.js",
+      "LAMP (Linux, Apache, Mysql, PHP)"
+    ],
+    "secondary": [
+      "REST APIs",
+      "RabbitMQ",
+      "Software Design, Design Patterns, Code Review, Unit Testing, Clean Coding, Solid, Pull Request, Merge Request, Git workflows",
+      "Web Development (HTML, JavaScript, AJAX, CSS, Bootstrap, SASS)"
     ]
   },
   "certifications": {
