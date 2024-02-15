@@ -8,7 +8,10 @@
   },
   "summary": {
     "sectionTitle": "Summary",
-    "data": "Experienced software developer with years of expertise in developing robust and scalable web applications. Skilled in full-stack development, I have successfully led teams and collaborated with diverse professionals to create innovative solutions for both startups and prestigious large enterprises. A detail-oriented problem-solver, I excel in coding, design, software testing, and debugging. Procient in a wide range of programming languages and frameworks, I have a solid foundation that allows me to adapt quickly to new technologies and deliver high-quality results. Committed to continuous learning and staying up-to-date with industry trends, I bring a passion for software development and a drive to create user-friendly applications that meet business objectives."
+    "data": [
+      "",
+      ""
+    ]
   },
   "experience": {
     "sectionTitle": "Experience",
@@ -33,7 +36,7 @@
       {
         "company": "Amreton - Isfahan, Iran",
         "position": "Full Stack Engineer - Backend Developer - PHP Developer - Node.js Developer",
-        "timePeriod": "Jan 2019 - Dec 2019 • ( 2 years 0 months )",
+        "timePeriod": "Jan 2019 - Dec 2019 • ( 1 years 0 months )",
         "details": [
           "Amreton Project (https://amreton.ir/):",
           "Pivotal role in developing and enhancing systems for the Internet Taxi application as a dedicated backend developer.",
@@ -102,6 +105,7 @@
       "Database (MySQL, MongoDB)",
       "Version Control (Gitlab, GitHub)",
       "Object-Oriented Programming (OOP)",
+      "Unit Testing, Integrated Testing, Scenario Testing",
       "Agile Methodologies (Scrum)",
       "JavaScript, TypeScript",
       "Front-end (Angular, AngularJS, Vue.js, Nuxt.js",
