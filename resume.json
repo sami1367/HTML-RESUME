@@ -97,6 +97,7 @@
     "primary": [
       "PHP (PHP Frameworks like Laravel, Symfony or pure Vanilla php)",
       "Node.js (Express.js, NestJS)",
+      "Golang (Gin Framework)",
       "Amazon Web Services (AWS)",
       "Database (MySQL, MongoDB)",
       "Version Control (Gitlab, GitHub)",
